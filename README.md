@@ -1,7 +1,9 @@
 # My-Portfolio
 This is my Personal Portfolio website 
 
-### Tech Stacks used
+###  Checkout my portfolio [here](https://srishti-manna-me.netlify.app/)
+
+##  Tech Stacks used
 - HTML
 - CSS
 - JS
